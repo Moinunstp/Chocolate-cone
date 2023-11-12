@@ -1,0 +1,89 @@
+/*Top section*/
+.fa-regular
+{
+	font-size:30px;
+}
+.fa-solid
+{
+	font-size:25px;
+}
+.font
+{
+	font-family:arial;
+	font-weight:400;
+}
+i
+{
+	color:#331a00;;
+}
+.banner
+{
+	background-image:url('b4.jpg');
+	background-size:cover;
+	background-repeat:no-repeat;
+	background-size:100% 100%;
+}
+.box
+{
+	box-shadow:1px 1px 4px gray;
+}
+.cake
+{
+	
+	background-repeat:no-repeat;
+	background-size:cover;
+	background-size:100% 100%;
+	height:200px;
+	transition:transform;
+	transform:scale(1,1);
+}
+.c1
+{
+	background-image:url('bn.jpg');
+}
+.c2
+{
+	background-image:url('c2.jpg');
+}
+.c3
+{
+	background-image:url('c7.jpg');
+}
+.c4
+{
+	background-image:url('c4.jpg');
+}
+.c5
+{
+	background-image:url('c5.jpg');
+}
+.c6
+{
+	background-image:url('c6.jpg');
+}
+.cake:hover
+{
+	transform:scale(1.1,1.1);
+	transition-duration:1s;
+}
+.se
+{
+	height:200px;
+	background-color:white;
+	display:none;
+}
+.im:hover .se 
+{
+	display:block;
+}
+.im
+{
+	background-repeat:no-repeat;
+	background-size:cover;
+	background-size:100% 100%;
+	height:200px;
+}
+.cb
+{
+	background-color:red;
+}
